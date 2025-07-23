@@ -1,0 +1,3 @@
+﻿  PongGame.cpp
+C:\Users\MOD\source\repos\PongGame\PongGame\PongGame.cpp(504,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  PongGame.vcxproj -> C:\Users\MOD\source\repos\PongGame\x64\Debug\PongGame.exe

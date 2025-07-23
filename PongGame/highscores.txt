@@ -1,0 +1,4 @@
+sal  10
+  7
+shah  4
+Noyyan  1
